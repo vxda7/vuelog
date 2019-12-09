@@ -3,6 +3,7 @@
     <!-- <img src="./assets/logo.png">  -->
     <router-link to="/">home</router-link>
     <router-link to="/posts">posts</router-link>
+    <a href="/safari/">safari</a>
     <router-view/>
   </div>
 </template>
